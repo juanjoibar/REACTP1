@@ -22,7 +22,7 @@ function App() {
           })}
         </div>
         <p>
-          Edit <code>src/App.jsx</code> and save to test HMR
+          Edit <code>src/App.jsx</code> and save to test HMR22
         </p>
       </div>
      
